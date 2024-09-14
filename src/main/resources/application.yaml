@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: paychecks
+server:
+  port: 8088
+app:
+  holiday:
+    new-year:
+      length: 8
+
+
+
